@@ -5,7 +5,7 @@ public class Estructura {
 
     public Estructura() {
         this.matriz = new char[3][3];
-        inicializarMatriz();
+        inicializarMatriz(); 
     }
 
     public boolean ganadorX() {
