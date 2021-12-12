@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class GameMode1 {
 
-	private Scanner leer;
+	private Scanner leer; 
 	private int fila, columna, puntajeJugador1 = 0, puntajeJugador2 = 0;
 	private String jugador1, jugador2, ganador = null, sigue = "si";
 	private Estructura e;
